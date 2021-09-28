@@ -1,0 +1,26 @@
+{
+  "name": "prestigev13",
+  "version": "1.0.0",
+  "description": "Officially Owned by Prestige Inc.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "nodemon src/bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MostlyGhostlyGaming/prestigev13.git"
+  },
+  "author": "prestige_inc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MostlyGhostlyGaming/prestigev13/issues"
+  },
+  "homepage": "https://github.com/MostlyGhostlyGaming/prestigev13#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0"
+  }
+}
